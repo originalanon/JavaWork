@@ -1,2 +1,2 @@
-# LightBlocks
-A project from school -- see README for contributions
+# Java Work
+A list of Java work from college
