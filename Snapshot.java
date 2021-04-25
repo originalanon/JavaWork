@@ -1,3 +1,7 @@
+//This is from a project that is still in work, but the main design of the program is to predict course enrollment for classes
+//using historical and current semester data, which is stored in "snapshots." This is the class to deal with reading in those
+//snapshots from a file. It requires OpenCSV.
+
 package edu.odu.cs.cs350;
 
 import java.util.List;
@@ -6,7 +10,7 @@ import java.util.ArrayList;
 /**
  * Nothing much to see here...
  * 
- * @author kchappel & hjenkins & lveri
+ * @author lbarton
  *
  */
 
