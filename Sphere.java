@@ -2,6 +2,8 @@
 ** CS350
 ** 09-05-2020
 */
+
+/*This was a project from Fall 2020, and this was the script I worked on*/
 package polyhedra;
 
 import java.util.Scanner;
